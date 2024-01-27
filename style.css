@@ -236,8 +236,8 @@ html{
    .sign, .register{
       font-size: 12px;
    }
-      .logincontent,.registercontent {
-      padding-left: 45px;}
+   .logincontent,.registercontent {
+      padding-left: 39px;}
 }
 @media (max-width:873px){
    .owl{
@@ -249,6 +249,5 @@ html{
    .mainlogin{
       width: 100vw;
    }
-  
 }
 
