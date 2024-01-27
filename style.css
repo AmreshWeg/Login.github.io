@@ -236,7 +236,7 @@ html{
    .sign, .register{
       font-size: 12px;
    }
-      .logincontent {
+      .logincontent,.registercontent {
       padding-left: 45px;}
 }
 @media (max-width:873px){
