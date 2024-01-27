@@ -144,7 +144,6 @@ html{
     transform: translate(-50%,-50%);
  }
  .registercontent{
-     width: 40rem;
     position: absolute;
     top: 50%;
     left: 200%;
@@ -252,7 +251,4 @@ html{
    }
   
 }
-@media (max-width:328px){
-   .logincontent {
-      padding-left: 39px;}
-}
+
